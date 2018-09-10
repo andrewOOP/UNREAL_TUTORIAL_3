@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.20",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UNREAL_TUTORIAL_3",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
