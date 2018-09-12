@@ -49,6 +49,6 @@ void ACountdown::AdvanceTimer() {
 	}
 }
 
-void ACountdown::CountdownHasFinished() {
+void ACountdown::CountdownHasFinished_Implementation() {
 	CountdownText->SetText(TEXT("GO!"));
 }
