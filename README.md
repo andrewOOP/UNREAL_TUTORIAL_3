@@ -1,4 +1,6 @@
 # UNREAL_TUTORIAL_3
+Variables, Timers, and Events
+https://docs.unrealengine.com/en-us/Programming/Tutorials/VariablesTimersEvents
 
 ## What I Learned
 I learned how to correctly overload a C++ function with Blueprints and use timers effectively. Also, never trust Visual Studio's reported errors.
